@@ -33,6 +33,3 @@
 ## 🛠️ 사용 기술 및 라이브러리
 JSP, Servlet, JAVA, JavaScript, AJAX
 
-## 🎤 ERD
-![계정교회ERD](https://user-images.githubusercontent.com/107527861/235359347-c95c4654-1ab6-4188-a469-0fd66e68820e.png)
-
