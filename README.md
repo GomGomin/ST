@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://file.notion.so/f/s/9ea79750-a6e3-489a-bb74-7500e9843db4/study3.png?id=1070cc02-91fb-49d8-a3a1-9c21186c18b2&table=block&spaceId=43c03df8-58d2-49b3-b468-13d6af71e3e2&expirationTimestamp=1682649249736&signature=lBHND655lyCj7uKvx-Br8-GKHNpMarVYDqKJycFbwGQ&downloadName=study3.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/GomGomin/GomGomin/assets/107527861/69d74728-5797-4fae-8008-a3fe82cab404" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">StudyTime Project</h3>
@@ -9,16 +9,14 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About ST Project
-
 ## DB
-<img src="https://file.notion.so/f/s/adef0615-4d93-4a3a-bffb-7ebee7f405ba/board.png?id=1cf67e0f-ec31-44ba-b5fa-7f6a5a7c3951&table=block&spaceId=43c03df8-58d2-49b3-b468-13d6af71e3e2&expirationTimestamp=1682669445448&signature=zAskRRXCWsqPLBBssav3dszYwTkKtxLyN4B4XxibADg&downloadName=board.png">
+<img src="https://github.com/GomGomin/GomGomin/assets/107527861/b544d55f-59de-4d08-8f75-d8abda82ce5d">
 
 ## ⭐ 서비스 개요
-<img src="https://file.notion.so/f/s/32a92803-a93d-469e-8774-cfbb6ff304a5/Untitled.png?id=97512cd5-a2a8-4a34-80d9-fc36a5629c78&table=block&spaceId=43c03df8-58d2-49b3-b468-13d6af71e3e2&expirationTimestamp=1682649402956&signature=3Lo4C3qM4A6cu00qigLCZ2nT1E5u9_yYbiBiqyQivts&downloadName=Untitled.png">
+<img width="1000" alt="스터디타임 개요" src="https://github.com/GomGomin/GomGomin/assets/107527861/82ef891c-20e9-4452-8a6e-3fb66f97b5f4">
 
 ## 📜 IA
-<img src="https://file.notion.so/f/s/d61b010a-cd63-4cfe-959e-c73964ec98c9/Untitled.png?id=c71ea557-894f-4a4f-869f-b8aa2ff03396&table=block&spaceId=43c03df8-58d2-49b3-b468-13d6af71e3e2&expirationTimestamp=1682649099936&signature=-KBo76vDtqPSeVsrV9FvRkFCFFuslhXLLOigoxO4Iy0&downloadName=Untitled.png"> 
+<img src="https://github.com/GomGomin/GomGomin/assets/107527861/82c74db1-d136-4ef9-b726-0fd0027dfac0"> 
 
 ## 📱 주요기능
 
